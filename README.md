@@ -1,5 +1,7 @@
 
-# Cukehater 🥒
+<h1 align="center" style="border-bottom: none;">
+  Cukehater 🥒
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+for+the+Web;Always+Learning%2C+Always+Growing" />
@@ -20,9 +22,11 @@
 <br />
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cukehater&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cukehater&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=cukehater&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cukehater&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+<br />
 
 <p align="center">
   <sub>BUILD · EXPLORE · IMPROVE</sub>
