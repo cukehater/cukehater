@@ -42,13 +42,4 @@
     </td>
   </tr>
 </table>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=cukehater&bg_color=0D1117&color=8B9CF6&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-<br/>
-
----
-
-<sub><b>BUILD · CREATE · EVOLVE</b></sub>
-
 </div>
